@@ -1,6 +1,8 @@
 
 **Just the beginning of an account full of creativity!**
 
+👩‍💻 I'm currently studying Data Science/ML/AI
+
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maielbaradei/) 
 
